@@ -22,6 +22,8 @@
 </head>
 <body>
 
+<h1>Nama Dosen dan Mata Kuliah</h1>
+
 <table border = "1">
     <tr>
         <th class="th">No. </th>
