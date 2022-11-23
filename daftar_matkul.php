@@ -25,6 +25,7 @@
 	</head>
 	<body>
 		<center>
+			<h1>Daftar Matakuliah SMT 5</h1>
 		<table border="1">
 			<thead>
 				<tr>

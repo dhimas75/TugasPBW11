@@ -22,6 +22,8 @@
 </head>
 <body>
 
+<center>
+
 <h1>Nama Dosen dan Mata Kuliah</h1>
 
 <table border = "1">
@@ -82,6 +84,8 @@
     </tr>
 
 </table>
+
+</center>
 
 </body>
 </html>
