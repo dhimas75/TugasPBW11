@@ -6,7 +6,6 @@
 <style>
 			body{
 				padding-top: 75px;
-                padding-left: 350px;
 				background-color: powderblue;
 			}
 			.th{
